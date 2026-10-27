@@ -5,3 +5,4 @@ Catalog to use	workspace
 CLI profile name	free
 GitHub repo URL	https://github.com/Veo20/cfpb-conduct-risk-monitor
 Token expiry date	7 days
+Application ID  b88851dc-6cb2-452c-835d-40e653db9bf8
