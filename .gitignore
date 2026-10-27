@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets and local config
+.env
+.databrickscfg
+*.pbix.bak
+
+# Local data
+data/
+*.csv

@@ -1,0 +1,7 @@
+Workspace host	https://https://dbc-43a97407-9124.cloud.databricks.com/
+Warehouse name	
+Warehouse HTTP path	/sql/1.0/warehouses/2bab0a518b893bad
+Catalog to use	workspace
+CLI profile name	free
+GitHub repo URL	https://github.com/Veo20/cfpb-conduct-risk-monitor
+Token expiry date	7 days
